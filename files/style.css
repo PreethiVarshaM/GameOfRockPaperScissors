@@ -1,13 +1,13 @@
 
 .heading{
-color:azure;
+color:silver;
 background-color:rgb(0, 0, 0);
 align-items: center;
 justify-content: center;
 text-align: center;
-border-bottom: 1px solid rgb(212, 211, 211);;
+
 font-size: 50px;
-font-family: cursive;
+font-family:'Times New Roman', Times, serif;
 height: 100px;
 overflow: hidden;
 padding: 12.5px;
